@@ -107,7 +107,7 @@ namespace linqExample
                 Console.WriteLine("{0} {1}", item.Name,item.Xp);
             }
 
-            Console.ReadKey();
+      ;
         }
     }
 }
